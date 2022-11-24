@@ -16,7 +16,7 @@
         <typesafe.config.version>1.2.1</typesafe.config.version>
         <junit.version>5.4.0</junit.version>
         <mysql.version>5.1.39</mysql.version>
-        <hibernate.version>5.1.0.Final</hibernate.version>
+        <hibernate.version>5.3.20.Final</hibernate.version>
         <codec.version>1.10</codec.version>
         <itextpdf.version>5.5.11</itextpdf.version>
         <!--<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
